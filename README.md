@@ -1,7 +1,7 @@
 # Profile of Nonpawit Silabumrungrad
 
 ## About Me
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+I am a third-year Computer Science student with a strong passion for computers and technology. I enjoy leveraging my skills to tackle challenges and develop innovative solutions. My areas of expertise include Machine Learning and AI, and I am actively expanding my knowledge in web development. I am highly motivated to learn and grow, whether by exploring new ideas or mastering cutting-edge tools essential for professional success. 
 
 
 ## Areas of Interest
