@@ -1,44 +1,38 @@
 # Profile of Nonpawit Silabumrungrad
 
 ## About Me
-I am a student at **Kasetsart University Sriracha Academy**, pursuing my Bachelor's degree with a strong interest in advancing my studies towards a **Master's Degree** and **Ph.D.**. My academic focus and passion lie in **Data Science**, **Machine Learning**, **Web Development**, and **App Development**. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
-I am dedicated to learning and exploring cutting-edge technologies, and I am driven by the desire to contribute to innovations in the field of technology and science.
 
 ## Areas of Interest
-- **Data Science**: I am passionate about analyzing and interpreting complex data to extract valuable insights. I enjoy working with statistical models, data analysis tools, and machine learning algorithms.
-- **Machine Learning**: I have a keen interest in developing and implementing machine learning models to solve real-world problems, from classification to predictive analysis.
-- **Web Development**: I love creating interactive and user-friendly websites. I am experienced with technologies such as HTML, CSS, JavaScript, and frameworks like React and Node.js.
-- **App Development**: Building mobile applications that are both functional and aesthetically pleasing is something I thoroughly enjoy. I work with platforms like Android and iOS, and I am always eager to learn new development tools.
+- **Machine Learning**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- **Web Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- **App Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ## Education
-- **Kasetsart University Sriracha Academy**, Bachelor's degree, 2025
+- **Kasetsart University Sriracha Academy**, Bachelor's degree, 2025 (Expected Graduation: November 2025)
+- **Bangkok Christian College**, Robotics and Computer Engineering Track, 2022
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, C++
+- **Programming Languages**: Python, JavaScript, Java, C++, C, R
 - **Tools & Technologies**:
-  - **Machine Learning**: TensorFlow, scikit-learn, Keras, PyTorch
-  - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
-  - **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express
-  - **App Development**: Android, iOS, Flutter
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
+  - **Machine Learning**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - **Data Science**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - **Web Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - **App Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+- **Databases**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+- **Version Control**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Projects
-I have worked on several projects in the fields of data science, machine learning, and application development. These projects range from machine learning models for data prediction, web applications, and mobile apps that aim to solve real-world problems.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ## Goals
-- To pursue advanced degrees in **Data Science**, **Machine Learning**, or **Artificial Intelligence**.
-- To deepen my understanding and skills in **Web Development** and **App Development** through hands-on projects and research.
-- To contribute to groundbreaking projects in technology and develop applications that can make a difference in society.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Contact
 - **Email**: nonpawit.sila@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/nonpawitsilabumrungrad/
 - **GitHub**: https://github.com/waterondaway/
-
-Feel free to reach out to me for any collaborations, inquiries, or opportunities in the fields of data science, machine learning, or software development!
-
 
 <!---
 waterondaway/waterondaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
