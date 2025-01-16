@@ -3,31 +3,31 @@
 ## About Me
 I am a third-year Computer Science student with a strong passion for computers and technology. I enjoy leveraging my skills to tackle challenges and develop innovative solutions. My areas of expertise include Machine Learning and AI, and I am actively expanding my knowledge in web development. I am highly motivated to learn and grow, whether by exploring new ideas or mastering cutting-edge tools essential for professional success. 
 
-
-## Areas of Interest
-- **Machine Learning**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-- **Web Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-- **App Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+## Work Experience
+- **Internship at Tamkang University, Taiwan** : Developed a comprehensive performance analysis of various YOLO versions for detecting fabric anomalies.
 
 ## Education
 - **Kasetsart University Sriracha Academy**, Bachelor's degree, 2025 (Expected Graduation: November 2025)
 - **Bangkok Christian College**, Robotics and Computer Engineering Track, 2022
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, C++, C, R
+- **Programming Languages**: Python, HTML, CSS, JavaScript, Java, C++, C, R, Dart, SQL
 - **Tools & Technologies**:
-  - **Machine Learning**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  - **Data Science**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  - **Web Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  - **App Development**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-- **Databases**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-- **Version Control**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - **Machine Learning**: PyTorch, Matplotlib
+  - **Data Science**: Microsoft Power BI
+  - **Web Development**: React, Vue, Next
+  - **App Development**: React Native, Flutter
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git
 
 ## Projects
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- **Dictionary Buddy on to Go**: Developed a web application using React Native, Node.js, and Flask, integrating an AI model based on YOLO algorithm to
+create an English vocabulary learning platform for children.
+- **Police Ticket Management**: Developed a Driving License Management System using Java, with a GUI interface and MySQL database integration. The
+system handles driving license management, generates traffic tickets, tracks orders, and processes payments.
 
 ## Goals
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+I aim to expand my knowledge in DevOps, Frontend, and Backend development to create efficient and scalable solutions.
 
 ## Contact
 - **Email**: nonpawit.sila@gmail.com
